@@ -187,7 +187,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 00827ae5-ba17-43f7-82c2-73e5b2e96f7e)
-    (at 224.63125 136.525)
+    (at 209.55 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/2ca11857-b406-424f-8a08-1779595ad2ec")
@@ -227,7 +227,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 0cdfe43e-fadb-487d-8872-1a78208e2a72)
-    (at 296.06875 155.575)
+    (at 280.9875 119.0625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/2b87c2a2-04e5-473e-8900-66f5e35c6214")
@@ -267,7 +267,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 0d2d0318-e329-439b-b788-657fbc9656dd)
-    (at 100.80625 117.475)
+    (at 85.725 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/cc490638-22cc-4e77-91a7-4e82775ff2cd")
@@ -307,7 +307,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 1282b53b-3141-408a-9bd1-2a1c25e81460)
-    (at 205.58125 136.525)
+    (at 190.5 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/8d590fc5-5b22-4681-92d1-e2bf07283831")
@@ -347,7 +347,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 191d0c65-4e93-4d53-8c59-5a4062b97105)
-    (at 277.01875 155.575)
+    (at 261.9375 119.0625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/1f88e09a-abd9-4a58-89da-e6147d41eb6e")
@@ -387,7 +387,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-6.5U-NoLED" (layer "F.Cu")
     (tedit 5A9F52CD) (tstamp 1fd28af7-c48a-406f-b2b8-f322fa6dd721)
-    (at 181.76875 155.575)
+    (at 166.6875 119.0625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/4a72dbe4-4333-48fe-a1d8-cf6b01588b57")
@@ -431,7 +431,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 28d7cb7c-e0c9-41d0-aa46-4a10336be909)
-    (at 262.73125 136.525)
+    (at 247.65 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/641b9eb2-25e3-4180-92cb-598e077ba1db")
@@ -471,7 +471,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 2abe49e9-b803-4558-be78-ebe6329bb477)
-    (at 167.48125 136.525)
+    (at 152.4 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/cb4a67cf-643c-47d1-9541-4fdeb871cb9c")
@@ -511,7 +511,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 2c28bf59-282a-4b44-9c34-623b8fd9f3dc)
-    (at 148.43125 136.525)
+    (at 133.35 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/7dbddf8f-4c5b-42e1-b5ac-301ab11dc54e")
@@ -551,7 +551,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 2e17f456-6df1-47ec-b549-cc2cd1a6547a)
-    (at 243.68125 136.525)
+    (at 228.6 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/dcdb665b-bee4-4833-bd96-e14f5020991b")
@@ -591,7 +591,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 344b790f-a13a-4a73-8801-a920c5a06423)
-    (at 272.25625 117.475)
+    (at 257.175 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/55116dc6-f50e-4cc9-b124-f63e0cdadb74")
@@ -631,7 +631,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 38100033-3eb0-472f-b7e1-4e6a6cc68870)
-    (at 81.75625 117.475)
+    (at 66.675 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/26a3fa2e-5770-45f1-8ea5-4a1eeb435662")
@@ -671,7 +671,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 39c99689-5774-4097-a711-f2b6ef70d6fb)
-    (at 157.95625 117.475)
+    (at 142.875 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/a6eb35bd-3d98-462c-b3b7-3772aa5b4e71")
@@ -711,7 +711,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 39f79d70-8ac3-437e-a830-af252382a545)
-    (at 334.16875 98.425)
+    (at 319.0875 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/e782f502-0968-4584-85bf-6f0136ad9a86")
@@ -751,7 +751,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.75U-NoLED" (layer "F.Cu")
     (tedit 5A9F5220) (tstamp 3d674f83-a017-47f0-b198-c30aad3001dd)
-    (at 288.925 136.525)
+    (at 273.84375 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/4be5bb76-9b18-4050-bc1b-36d8fcf1d29e")
@@ -791,7 +791,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.5U-NoLED" (layer "F.Cu")
     (tedit 5A9F5217) (tstamp 4175c3bc-e9d7-404b-895d-f9d14e0d1233)
-    (at 53.18125 98.425)
+    (at 38.1 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/a167f8b9-5f99-4a3d-9a4d-055bcbee5f09")
@@ -831,7 +831,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 4806f1fd-5f00-49af-b62f-53181048ae66)
-    (at 96.04375 98.425)
+    (at 80.9625 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/76a19c76-feb9-45f2-81a0-e6dfe462ab2f")
@@ -871,7 +871,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 55096b38-0143-43ca-a3c2-26c132dbb9e2)
-    (at 129.38125 136.525)
+    (at 114.3 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/154b3c4c-f79a-4af6-b195-5b41c7670e8e")
@@ -911,7 +911,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 5b1aae41-a73f-4073-85f8-c2d03ab087ee)
-    (at 134.14375 98.425)
+    (at 119.0625 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/804ca6bb-9188-4303-a327-a19519bcc189")
@@ -951,7 +951,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 5bf30de6-d705-4697-9e41-30f369df65e2)
-    (at 234.15625 117.475)
+    (at 219.075 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/2b4dc1ac-890a-4c0b-9cae-60f74d217534")
@@ -991,7 +991,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 64e10ea1-8504-4d0f-9b8b-2564c4517fff)
-    (at 124.61875 79.375)
+    (at 109.5375 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/62de1b3c-c170-492e-a24a-e41811e2538b")
@@ -1031,7 +1031,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 6ab4acda-dace-4cd7-a46b-455828779c6b)
-    (at 286.54375 98.425)
+    (at 271.4625 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/522cd663-dc84-43aa-b03e-dd9821efe00a")
@@ -1071,7 +1071,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 6d358208-64d6-49af-88bf-b75ca3be34a5)
-    (at 162.71875 79.375)
+    (at 147.6375 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/3acc8c41-9b05-4ce5-85b1-f0620dac506c")
@@ -1111,7 +1111,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 70629411-a938-4f24-bb44-ab28d0a2f8b0)
-    (at 119.85625 117.475)
+    (at 104.775 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/353cc204-e83b-4586-8de3-dc09d5850468")
@@ -1151,7 +1151,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 712ebdf0-040e-4379-8c44-4739fdfe63a3)
-    (at 143.66875 79.375)
+    (at 128.5875 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/b5839a83-7f4a-4e6d-973b-8f17f1585163")
@@ -1191,7 +1191,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 72e9402f-adc0-4fb3-af60-908261cd3550)
-    (at 229.39375 98.425)
+    (at 214.3125 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/d57677c3-4add-4128-8895-6d5331395dd3")
@@ -1231,7 +1231,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tedit 5A9F5210) (tstamp 76ab3384-a51e-4373-aae4-37daa96327b0)
-    (at 255.5875 155.575)
+    (at 240.50625 119.0625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/65f95cb7-dce9-4520-acf0-c4135bbef6a0")
@@ -1271,7 +1271,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 76df383d-116f-4787-bb30-22cc44f0aa0e)
-    (at 105.56875 79.375)
+    (at 90.4875 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/1a1f5926-d32f-48ea-acde-3c9b726a7499")
@@ -1311,7 +1311,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 79ec7055-c430-4197-98fe-7c3bccc9bfbc)
-    (at 257.96875 79.375)
+    (at 242.8875 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/674d8b73-5bba-46b6-b7bc-1141f1dfddf2")
@@ -1351,7 +1351,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-2.25U-NoLED" (layer "F.Cu")
     (tedit 5A9F5245) (tstamp 82a12029-a020-4fee-b5ca-433dd539192f)
-    (at 60.325 136.525)
+    (at 45.24375 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/d31279a2-c80e-45f1-81e7-cbfda613272c")
@@ -1395,7 +1395,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 8773a928-e879-4696-9335-df5828171507)
-    (at 334.16875 155.575)
+    (at 319.0875 119.0625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/219312a0-5f84-43e8-be56-b57a19f22b0a")
@@ -1435,7 +1435,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 89fbb19e-61b1-41eb-a4b7-ac7d01c1f6dc)
-    (at 267.49375 98.425)
+    (at 252.4125 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/24afcc10-b7d0-444b-b245-611f29cc634c")
@@ -1475,7 +1475,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 927bdf0f-c896-4d67-b425-52bc7a321b5a)
-    (at 277.01875 79.375)
+    (at 261.9375 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/516ce0bf-4fc1-43ca-9608-431bc52e91e6")
@@ -1515,7 +1515,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 939de1d3-ca34-4b6e-ae2d-80bda4e8849e)
-    (at 210.34375 98.425)
+    (at 195.2625 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/b8bf3972-fa8d-4b2a-9206-2c5c10d2d3ee")
@@ -1555,7 +1555,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 9ba8fb64-794f-491f-acec-8084e11c407c)
-    (at 253.20625 117.475)
+    (at 238.125 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/8894d132-3ee1-4bcf-8f37-d8d8db13b620")
@@ -1595,7 +1595,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp a80da547-2e27-4b22-9492-5d99973339ad)
-    (at 177.00625 117.475)
+    (at 161.925 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/b2800d8c-ae67-4f32-94de-998c743031d0")
@@ -1635,7 +1635,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp a90af013-86d4-411f-8f71-800d6677ecc8)
-    (at 315.11875 155.575)
+    (at 300.0375 119.0625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/072f5fbb-705e-4386-843e-c474f9be40e2")
@@ -1675,7 +1675,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp ac5e4ee9-0db4-4d0a-ac55-22c6f135c6b2)
-    (at 191.29375 98.425)
+    (at 176.2125 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/bc976a8a-ddce-4b06-9d1b-e422c2e0b504")
@@ -1715,7 +1715,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp b054d19b-633e-49a6-948b-4f351390ebba)
-    (at 172.24375 98.425)
+    (at 157.1625 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/03b6274a-063b-42f1-af19-427a4befc209")
@@ -1755,7 +1755,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp b10e1d06-cdca-4cae-9a86-5a98c69debdf)
-    (at 76.99375 98.425)
+    (at 61.9125 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/d787b82e-d0f9-4c60-895a-20c9958f8814")
@@ -1795,7 +1795,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp b1d0af91-55d1-4038-b4d8-ba98b8a03b2f)
-    (at 186.53125 136.525)
+    (at 171.45 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/b232087d-a7e8-4627-b8bb-631270c94f32")
@@ -1835,7 +1835,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp b414c5d0-85e9-4945-b89e-5442a898e4a1)
-    (at 200.81875 79.375)
+    (at 185.7375 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/06c927e0-d7d1-4f99-9c09-7fcda3ab05e0")
@@ -1875,7 +1875,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp b78ad28b-45b1-48e7-abac-3e3bed2b7ab0)
-    (at 238.91875 79.375)
+    (at 223.8375 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/175ad1a8-387d-4e45-be92-cdd6a5e9d8da")
@@ -1915,7 +1915,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp c3fef2b6-790a-48e5-b76d-5123077c2d2d)
-    (at 91.28125 136.525)
+    (at 76.2 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/530cab04-130f-4db1-a6a3-ac7faf542118")
@@ -1955,7 +1955,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp c4544988-40a6-4240-944e-87c5a609babf)
-    (at 181.76875 79.375)
+    (at 166.6875 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/2f049a16-28b7-48f0-a362-7160b53aa037")
@@ -1995,7 +1995,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-2.25U-NoLED" (layer "F.Cu")
     (tedit 5A9F5245) (tstamp c57a4c22-d048-4221-a5a3-a869e0e960ab)
-    (at 303.2125 117.475)
+    (at 288.13125 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/587d5ac8-ac47-400d-b1b2-73ffe2db1713")
@@ -2039,7 +2039,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.5U-NoLED" (layer "F.Cu")
     (tedit 5A9F5217) (tstamp d11c6fd9-d561-4a9c-818f-8ee3009728e1)
-    (at 310.35625 98.425)
+    (at 295.275 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/5d8daacb-8964-42e6-af35-5eb95f3c761e")
@@ -2079,7 +2079,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp d259fbac-d762-467c-9ebe-bc4a4212e292)
-    (at 315.11875 136.525)
+    (at 300.0375 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/7a1d0aab-88e7-40f8-8ef8-738a917eec2f")
@@ -2119,7 +2119,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp d27d7e65-d15a-4ae1-b589-8c5f75f14073)
-    (at 334.16875 136.525)
+    (at 319.0875 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/efade33a-3f67-4496-966e-681e9086b62f")
@@ -2159,7 +2159,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp d49c39b0-d5d0-4293-9938-fa7eb9f41eaa)
-    (at 67.46875 79.375)
+    (at 52.3875 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/70754e8c-08c1-4ec9-ae94-c4a26a258397")
@@ -2199,7 +2199,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.25U-NoLED" (layer "F.Cu")
     (tedit 5A9F5210) (tstamp d6d0e87d-4297-47d1-937d-1c0ff7a4ecd5)
-    (at 79.375 155.575)
+    (at 64.29375 119.0625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/c6f12985-7099-4619-b10d-47c626e2daee")
@@ -2239,7 +2239,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.5U-NoLED" (layer "F.Cu")
     (tedit 5A9F5217) (tstamp df35ad1d-62b5-4d23-bc27-897ef0a331df)
-    (at 53.18125 155.575)
+    (at 38.1 119.0625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/21c65b22-4d38-437e-89ae-429349d6f624")
@@ -2279,7 +2279,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp e031af9a-b5d6-4afd-a436-06435ee3fabb)
-    (at 138.90625 117.475)
+    (at 123.825 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/cd1210c4-0fa0-4283-84e9-d25253c1178a")
@@ -2319,7 +2319,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-2U-NoLED" (layer "F.Cu")
     (tedit 5A9F522A) (tstamp e0655a31-30dc-48b8-903b-86ad704b3915)
-    (at 305.59375 79.375)
+    (at 290.5125 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/37e327a7-0b75-47bf-a55b-bc547bab67f2")
@@ -2363,7 +2363,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp e2e656aa-6a46-446c-994a-6b1bdae5f757)
-    (at 196.05625 117.475)
+    (at 180.975 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/1aef44db-25cd-4fc8-bfb2-4e3992ecc326")
@@ -2403,7 +2403,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp e3bc9886-a608-4d8e-add4-ae5ff07b5193)
-    (at 110.33125 136.525)
+    (at 95.25 100.0125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/2683dddb-dd24-4c11-9ffc-b6a9b377f914")
@@ -2443,7 +2443,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp e4b78c9f-e462-4583-af7e-ad199566102e)
-    (at 86.51875 79.375)
+    (at 71.4375 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/dfffbd56-bde0-4238-a109-52321d6bdc64")
@@ -2483,7 +2483,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp e87a686b-7ea3-4d98-8d03-7e6f9e8aaa57)
-    (at 48.41875 79.375)
+    (at 33.3375 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/3c381c15-3c72-4fe2-aa58-dbde1cfca5a3")
@@ -2523,7 +2523,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.75U-NoLED" (layer "F.Cu")
     (tedit 5A9F5220) (tstamp e89f9d03-93af-4042-ada7-7fc19615dfb0)
-    (at 55.5625 117.475)
+    (at 40.48125 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/c478b91c-866b-45ee-9bc7-24b6e53ed599")
@@ -2563,7 +2563,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp ed3a0bb7-e89b-4cd6-8eb3-87161afd5488)
-    (at 153.19375 98.425)
+    (at 138.1125 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/1ca2c002-b816-481a-b2e0-8daca2ac7a8b")
@@ -2603,7 +2603,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp ef35a3c0-de12-49d9-a1fc-dd20c622c2e1)
-    (at 248.44375 98.425)
+    (at 233.3625 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/c9090e6a-a28d-4efa-aabb-12a6a4da6975")
@@ -2643,7 +2643,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp f25649e3-d003-45c8-8158-5abc1e9f95e9)
-    (at 115.09375 98.425)
+    (at 100.0125 61.9125)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/4776f6e2-d4f0-4efa-860c-3771e697c4c1")
@@ -2683,7 +2683,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp f7408259-92e5-4b4d-92a8-296ffcad4575)
-    (at 215.10625 117.475)
+    (at 200.025 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/7b5bec2c-cbfe-4d27-b214-ab15c1ffde30")
@@ -2723,7 +2723,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp f8786050-3374-4a6c-9fcc-97fc162f195d)
-    (at 334.16875 117.475)
+    (at 319.0875 80.9625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/1fe87f2b-2d93-49e4-8d13-fdfcf41cfd0c")
@@ -2763,7 +2763,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp fcc46ee2-2510-4fc9-9b8c-e2d8719fa62c)
-    (at 219.86875 79.375)
+    (at 204.7875 42.8625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/bca22acd-6ce2-4352-8050-3cd943fa91ae")
@@ -2803,7 +2803,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1.5U-NoLED" (layer "F.Cu")
     (tedit 5A9F5217) (tstamp fda0dc87-d239-492e-b33e-33c9ff80f56b)
-    (at 105.56875 155.575)
+    (at 90.4875 119.0625)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/7842978c-e8d1-4077-9389-58f04c5b9b64")
@@ -2843,7 +2843,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 001feb7b-f652-4b5c-9a7a-2a9acc12974d)
-    (at 125.4125 140.49375 90)
+    (at 110.33125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -2893,7 +2893,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 01e047a8-a39f-4958-a459-a576c52f904c)
-    (at 92.075 102.39375 90)
+    (at 76.99375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -2943,7 +2943,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 049cf647-e744-4d4d-9f4c-3c1e37d3ce4b)
-    (at 193.675 76.99375)
+    (at 178.59375 40.48125)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -2985,7 +2985,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 04b25410-0763-446d-82ad-bef2423a1729)
-    (at 96.8375 121.44375 90)
+    (at 81.75625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3035,7 +3035,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 06e45e72-7068-48b5-9eaf-01fa936bbe97)
-    (at 115.8875 121.44375 90)
+    (at 100.80625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3085,7 +3085,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 07986c58-99b4-45c8-a370-13557b930847)
-    (at 180.975 147.6375)
+    (at 217.4875 115.8875)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -3127,7 +3127,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 0898314a-db3a-4d67-ae32-45ffc26fefbf)
-    (at 73.025 102.39375 90)
+    (at 57.94375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3177,7 +3177,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 091b1669-afeb-4fb8-8f23-48751c641157)
-    (at 187.325 102.39375 90)
+    (at 172.24375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3227,7 +3227,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 10ab0c60-9883-4c27-bd4f-705dd1d168c3)
-    (at 330.2 121.44375 90)
+    (at 315.11875 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3277,7 +3277,7 @@
 
   (footprint "Button_Switch_SMD:SW_SPST_SKQG_WithStem" (layer "B.Cu")
     (tedit 61D4AAD5) (tstamp 120b0a1a-2b83-47ee-b06b-f46e436cc3fc)
-    (at 239.45 153.11875 90)
+    (at 223.8375 119.0625 90)
     (descr "ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html")
     (tags "SPST Button Switch")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -3356,10 +3356,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 240.75 152.11875)
-          (xy 240.75 149.11875)
-          (xy 238.15 149.11875)
-          (xy 238.15 152.11875)
+          (xy 225.1375 118.0625)
+          (xy 225.1375 115.0625)
+          (xy 222.5375 115.0625)
+          (xy 222.5375 118.0625)
         )
       )
     )
@@ -3370,10 +3370,10 @@
       (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
       (polygon
         (pts
-          (xy 240.75 157.11875)
-          (xy 240.75 154.11875)
-          (xy 238.15 154.11875)
-          (xy 238.15 157.11875)
+          (xy 225.1375 123.0625)
+          (xy 225.1375 120.0625)
+          (xy 222.5375 120.0625)
+          (xy 222.5375 123.0625)
         )
       )
     )
@@ -3386,7 +3386,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 1723648c-b09b-42c1-a95a-296dace36e8e)
-    (at 153.9875 121.44375 90)
+    (at 138.90625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3436,7 +3436,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 17a60f95-ca9b-42e1-9fd4-49132de30896)
-    (at 211.1375 145.25625 180)
+    (at 196.05625 108.74375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -3478,7 +3478,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 1dc4bff5-7017-4c07-9c98-a53c288055de)
-    (at 211.1375 121.44375 90)
+    (at 196.05625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3528,7 +3528,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 1e83de98-4b20-42a7-bbd8-fe586b158495)
-    (at 330.2 102.39375 90)
+    (at 315.11875 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3578,7 +3578,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 20160330-cb7d-487c-aba1-b16304398686)
-    (at 49.2125 159.54375 90)
+    (at 34.13125 123.03125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3628,7 +3628,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 20e7b8ad-c0e2-45a0-a176-cc28b0dd2363)
-    (at 177.8 159.54375 90)
+    (at 162.71875 123.03125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3678,7 +3678,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 233340e2-015e-41fe-a2dc-73a787e30c65)
-    (at 196.85 159.54375 90)
+    (at 181.76875 123.03125 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -3720,7 +3720,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 258ced7f-648c-4bdd-b872-afc8b0669958)
-    (at 200.025 146.05 180)
+    (at 184.94375 109.5375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -3762,7 +3762,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 265cc835-0935-42fb-bacc-c5bc3d771b43)
-    (at 44.45 83.34375 90)
+    (at 29.36875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3812,7 +3812,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 2a89aa09-b6fc-4dac-a708-024501f8cb99)
-    (at 106.3625 140.49375 90)
+    (at 91.28125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3862,7 +3862,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 2c843771-987b-4f18-a49c-39f2d5dd3245)
-    (at 208.75625 140.49375 -90)
+    (at 193.675 103.98125 -90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -3904,7 +3904,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 2f035e69-10a4-4c48-84fc-523465e2bb99)
-    (at 77.7875 121.44375 90)
+    (at 62.70625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -3954,7 +3954,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 37e93992-562f-41fb-968c-0711714143c1)
-    (at 206.375 102.39375 90)
+    (at 191.29375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4004,7 +4004,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 396a547c-f755-45bf-9fe2-08988ede709a)
-    (at 101.6 159.54375 90)
+    (at 86.51875 123.03125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4054,7 +4054,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 3bcda0f9-a828-48c3-9e1d-5824675f0ff3)
-    (at 273.05 83.34375 90)
+    (at 257.96875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4104,7 +4104,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 4c3b3eec-4683-4195-9ca4-58207f03d1e3)
-    (at 182.5625 140.49375 90)
+    (at 167.48125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4154,7 +4154,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 4cdb1bf9-d0ee-496b-84be-b4b8ea980422)
-    (at 130.175 102.39375 90)
+    (at 115.09375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4204,7 +4204,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 4e3e8968-5d0c-4b33-9435-5775d95acc1f)
-    (at 330.2 159.54375 90)
+    (at 315.11875 123.03125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4254,7 +4254,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 4efe7847-d23d-4bd7-bdf7-84f361523c49)
-    (at 207.16875 145.25625 180)
+    (at 192.0875 108.74375 180)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -4296,7 +4296,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 508fb48e-3491-474a-bb80-fdb78089066c)
-    (at 82.55 83.34375 90)
+    (at 67.46875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4346,7 +4346,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 50d47c24-9e53-43a9-8fc1-8e84aec9d74c)
-    (at 87.3125 140.49375 90)
+    (at 72.23125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4396,7 +4396,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 53b61e9e-9d5e-47c7-88af-b2acbe67149c)
-    (at 284.95625 140.49375 90)
+    (at 269.875 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4446,7 +4446,7 @@
 
   (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm" (layer "B.Cu")
     (tedit 5A02F146) (tstamp 54f92faa-8578-4277-bc48-5a23d04e6e13)
-    (at 205.58125 154.78125 -90)
+    (at 190.5 118.26875 -90)
     (descr "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
     (tags "QFP 0.8")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -4580,7 +4580,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 56de9016-3fff-45e9-9abc-5f6279893aa1)
-    (at 173.0375 121.44375 90)
+    (at 157.95625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4630,7 +4630,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 58f6c1cf-bb5a-4824-ba6e-9bed8533fa25)
-    (at 215.9 149.225 90)
+    (at 200.81875 112.7125 90)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -4672,7 +4672,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 59ce0d05-8804-4740-a1cf-551682c386cd)
-    (at 149.225 102.39375 90)
+    (at 134.14375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4722,7 +4722,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 5ac13497-5eca-4ccd-b4e9-4ee6110c2409)
-    (at 168.275 102.39375 90)
+    (at 153.19375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4772,7 +4772,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 5b368bbb-ce04-4809-bd03-e9ce16e8d4f6)
-    (at 225.425 102.39375 90)
+    (at 210.34375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4822,7 +4822,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 60594b95-8480-4e8c-bd61-bb8a7fc5206b)
-    (at 177.8 83.34375 90)
+    (at 162.71875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4872,7 +4872,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 615bb942-32b2-4991-be4d-73c57d8ef969)
-    (at 139.7 83.34375 90)
+    (at 124.61875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4922,7 +4922,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 637fd96f-2994-4bc0-b5c9-fc5a8a661cae)
-    (at 311.15 159.54375 90)
+    (at 296.06875 123.03125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -4972,7 +4972,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 667d8a15-d679-4b3e-b5ab-d5d0648f2cd0)
-    (at 49.2125 102.39375 90)
+    (at 34.13125 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5022,7 +5022,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 6bc34f4c-a5f8-43f1-89b4-3c5c3ae1d97e)
-    (at 249.2375 121.44375 90)
+    (at 234.15625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5072,7 +5072,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 6e68bf6c-e084-4dfd-af46-3ad03bc73df1)
-    (at 158.75 83.34375 90)
+    (at 143.66875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5122,7 +5122,7 @@
 
   (footprint "random-keyboard-parts:SOT143B" (layer "B.Cu")
     (tedit 5E62B3A6) (tstamp 6f3be544-ced2-48ac-9ab6-94f6576062ad)
-    (at 191.29375 83.34375)
+    (at 176.2125 46.83125)
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
     (property "Sheetname" "")
     (path "/fbfe5145-3122-40cf-b3f1-650809525a02")
@@ -5166,7 +5166,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 738539b4-2457-40d5-b3bd-5665ce4eb9fe)
-    (at 196.85 83.34375 90)
+    (at 181.76875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5216,7 +5216,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "B.Cu")
     (tedit 5A9F5203) (tstamp 74c8c96b-21ea-4d67-98ae-165ccd827f00)
-    (at 334.16875 79.375 180)
+    (at 319.0875 42.8625 180)
     (property "Sheetfile" "Matrix.kicad_sch")
     (property "Sheetname" "Matrix")
     (path "/5df4fd68-5956-4483-958e-2beb171d28e5/35b19800-a15e-487d-a393-55e3e9aff929")
@@ -5256,7 +5256,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 74e3594f-1510-4f07-b2f2-f37de94fb30d)
-    (at 254 83.34375 90)
+    (at 238.91875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5306,7 +5306,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 76262c88-d85d-4601-92c4-93c85d9fc339)
-    (at 63.5 83.34375 90)
+    (at 48.41875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5356,7 +5356,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 7bdecf60-7447-461b-8dbd-f4cc6fa757f0)
-    (at 292.1 159.54375 90)
+    (at 277.01875 123.03125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5406,7 +5406,7 @@
 
   (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering" (layer "B.Cu")
     (tedit 5A0FD1B2) (tstamp 7c0c51af-14af-4827-8e08-8e867763d224)
-    (at 219.73125 154.34375)
+    (at 204.65 117.83125)
     (descr "SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal hand-soldering")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -5453,7 +5453,7 @@
 
   (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering" (layer "B.Cu")
     (tedit 5C42C6AC) (tstamp 7d3d153d-451c-4172-8f57-532981604f3a)
-    (at 191.29375 64.47125)
+    (at 176.2125 27.95875)
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
     (property "Sheetname" "")
     (path "/17aa5991-b47a-4b70-b982-0e16b3317c5f")
@@ -5508,7 +5508,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 8d4b15d5-9c2f-46f8-a201-82d4e8a61561)
-    (at 239.7125 140.49375 90)
+    (at 224.63125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5558,7 +5558,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 8ec8266a-1365-4466-bc51-7a6628992557)
-    (at 56.35625 140.49375 90)
+    (at 41.275 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5608,7 +5608,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 8fdfbce8-cb39-4328-af77-d3536c9e11ea)
-    (at 273.05 159.54375 90)
+    (at 257.96875 123.03125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5658,7 +5658,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 91f77894-7e10-4996-b5cd-8ddc67122cf7)
-    (at 301.625 83.34375 90)
+    (at 286.54375 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5708,7 +5708,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 92024478-6bc7-4893-a274-458285461f2c)
-    (at 306.3875 102.39375 90)
+    (at 291.30625 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5758,7 +5758,7 @@
 
   (footprint "random-keyboard-parts:Reset_Pretty-Mask" (layer "B.Cu")
     (tedit 5C42C5CE) (tstamp 96962963-e280-4578-b89b-25272bf16218)
-    (at 158.75 154.78125)
+    (at 143.66875 118.26875)
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
     (property "Sheetname" "")
     (path "/bce3cd36-9494-4294-b533-fdf817f0d865")
@@ -5815,7 +5815,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp 99aa94ef-75ac-4a35-94dc-7763af357d51)
-    (at 225.425 153.19375)
+    (at 210.34375 116.68125)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -5857,7 +5857,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp 9faf4f1a-e590-48ff-bcec-0da7299cd9ba)
-    (at 211.1375 140.49375 90)
+    (at 196.05625 103.98125 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -5899,7 +5899,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp 9fc6b954-4a0c-4815-82db-8185bbd925df)
-    (at 201.6125 140.49375 90)
+    (at 186.53125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5949,7 +5949,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp a84d4bfe-c3cb-4a7e-b949-24e2d97c3755)
-    (at 51.59375 121.44375 90)
+    (at 36.5125 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -5999,7 +5999,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp ace21b5f-41ca-4032-8c5c-28f3d3e708e1)
-    (at 225.425 155.575)
+    (at 210.34375 119.0625)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -6041,7 +6041,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp adb0a175-6a24-499b-87ad-26669efa01af)
-    (at 120.65 83.34375 90)
+    (at 105.56875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6091,7 +6091,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp b345296f-420a-4b6d-b91d-da0ce8d50d04)
-    (at 215.9 83.34375 90)
+    (at 200.81875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6141,7 +6141,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp b6f702dd-ad68-41b0-a476-678eae307f0e)
-    (at 134.9375 121.44375 90)
+    (at 119.85625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6191,7 +6191,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp b86fb0d9-722a-4751-81d8-f97e081ce875)
-    (at 220.6625 140.49375 90)
+    (at 205.58125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6241,7 +6241,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp b8cac7fe-53b3-4ec7-8a44-497d4aa980e8)
-    (at 268.2875 121.44375 90)
+    (at 253.20625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6291,7 +6291,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp bdb66369-7853-4886-81b3-1ad4c98fcb21)
-    (at 101.6 83.34375 90)
+    (at 86.51875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6341,7 +6341,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp be9a284f-50b1-4438-9877-275964b7a6e2)
-    (at 230.1875 121.44375 90)
+    (at 215.10625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6391,7 +6391,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp c77c6b71-d1a6-47a5-a92c-80d5b0686869)
-    (at 263.525 102.39375 90)
+    (at 248.44375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6441,7 +6441,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp c9c43d88-76c8-4f9e-9281-e2f1d6fa1925)
-    (at 258.7625 140.49375 90)
+    (at 243.68125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6491,7 +6491,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEF) (tstamp caefe97d-dfee-4fa4-bc70-d84620425f85)
-    (at 210.34375 163.5125)
+    (at 195.2625 127)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -6533,7 +6533,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp cd935e24-fd02-4bad-836d-9612b51d566f)
-    (at 111.125 102.39375 90)
+    (at 96.04375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6583,7 +6583,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp d0063202-df2d-4b19-b19d-26d5cef815e7)
-    (at 163.5125 140.49375 90)
+    (at 148.43125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6633,7 +6633,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp d1cff0d5-a4e6-4214-903a-9841a47de5b7)
-    (at 188.9125 76.99375 180)
+    (at 173.83125 40.48125 180)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -6675,7 +6675,7 @@
 
   (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEF1) (tstamp d236f2f4-9d67-4cb7-ab98-97d3fbf871de)
-    (at 187.325 84.93125 -90)
+    (at 172.24375 48.41875 -90)
     (descr "Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "fuse handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -6717,7 +6717,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp d4875fe9-3210-49ec-b379-4b9dd339f372)
-    (at 282.575 102.39375 90)
+    (at 267.49375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6767,7 +6767,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp d54ac69e-6181-466c-acaf-d3ddcda61096)
-    (at 234.95 83.34375 90)
+    (at 219.86875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6817,7 +6817,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp d5c9fd7b-67f2-4be5-aa01-f2d8faebe6a8)
-    (at 330.2 83.34375 90)
+    (at 315.11875 46.83125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6867,7 +6867,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp d773e312-223e-49b0-a149-f604e70e0146)
-    (at 192.0875 121.44375 90)
+    (at 177.00625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6917,7 +6917,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e7714d7e-bd74-4024-9d76-a438c639521d)
-    (at 244.475 102.39375 90)
+    (at 229.39375 65.88125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -6967,7 +6967,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e7d103b6-5ab7-4a34-b895-31b637edb45b)
-    (at 330.2 140.49375 90)
+    (at 315.11875 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -7017,7 +7017,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e8609fd5-2aea-473a-b5c6-3d98fb6f48ee)
-    (at 251.61875 159.54375 90)
+    (at 236.5375 123.03125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -7067,7 +7067,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp e9445015-b34b-4144-af1e-5c266fc43cb3)
-    (at 311.15 140.49375 90)
+    (at 296.06875 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -7117,7 +7117,7 @@
 
   (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (layer "B.Cu")
     (tedit 5F68FEEE) (tstamp ea25df2c-1387-4732-aef1-ecf464e7a8b4)
-    (at 199.23125 163.5125)
+    (at 184.15 127)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Sheetfile" "keyboard-design-practice.kicad_sch")
@@ -7159,7 +7159,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp f5f62a6f-b22a-49de-a8ca-4309bd2d9715)
-    (at 299.24375 121.44375 90)
+    (at 284.1625 84.93125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -7209,7 +7209,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp f7f80dd8-d1ef-43d6-a0f4-666c3fef4571)
-    (at 144.4625 140.49375 90)
+    (at 129.38125 103.98125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -7259,7 +7259,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
     (tedit 58645DC7) (tstamp fe2bbff8-d7e4-4020-824a-dc9ef6c4099a)
-    (at 75.40625 159.54375 90)
+    (at 60.325 123.03125 90)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "Matrix.kicad_sch")
@@ -7307,19 +7307,19 @@
     )
   )
 
-  (gr_arc (start 343.69375 162.71875) (mid 342.996298 164.402548) (end 341.3125 165.1) (layer "Edge.Cuts") (width 0.1) (tstamp 1782dd26-cbc4-42e5-9399-d1818a705c8f))
-  (gr_line (start 185.7375 65.88125) (end 196.85 65.88125) (layer "Edge.Cuts") (width 0.1) (tstamp 1b4c8751-446f-48f7-944c-f779754994df))
-  (gr_line (start 41.275 165.1) (end 341.3125 165.1) (layer "Edge.Cuts") (width 0.1) (tstamp 4189c9b3-7c59-4f81-a6f7-b3502b39e3f1))
-  (gr_line (start 185.7375 68.2625) (end 185.7375 65.88125) (layer "Edge.Cuts") (width 0.1) (tstamp 6a84c100-fec6-4580-8bfa-9d9f189388fb))
-  (gr_line (start 196.85 65.88125) (end 196.85 68.2625) (layer "Edge.Cuts") (width 0.1) (tstamp 6f6956f3-601a-44c7-aa5f-109ad40a3c56))
-  (gr_line (start 198.4375 69.85) (end 341.3125 69.85) (layer "Edge.Cuts") (width 0.1) (tstamp 7104d884-7210-4493-88ab-2ff08f1c57e3))
-  (gr_arc (start 38.89375 72.23125) (mid 39.591202 70.547452) (end 41.275 69.85) (layer "Edge.Cuts") (width 0.1) (tstamp 7b50e08b-a1e4-439a-ba76-a590d7e9ef8e))
-  (gr_arc (start 341.3125 69.85) (mid 342.996298 70.547452) (end 343.69375 72.23125) (layer "Edge.Cuts") (width 0.1) (tstamp 9835b4c3-6a95-4b71-abdb-ac42a86c77ae))
-  (gr_line (start 184.15 69.85) (end 41.275 69.85) (layer "Edge.Cuts") (width 0.1) (tstamp a2528ea2-70aa-46dd-9f15-3b182dac76ef))
-  (gr_line (start 343.69375 72.23125) (end 343.69375 162.71875) (layer "Edge.Cuts") (width 0.1) (tstamp a70bf248-6e8c-4724-a669-3f356c25d0e6))
-  (gr_arc (start 198.4375 69.85) (mid 197.314968 69.385032) (end 196.85 68.2625) (layer "Edge.Cuts") (width 0.1) (tstamp bdce53eb-9c28-411a-9283-b7a10a0638e7))
-  (gr_arc (start 41.275 165.1) (mid 39.591202 164.402548) (end 38.89375 162.71875) (layer "Edge.Cuts") (width 0.1) (tstamp be897406-ef26-4c5f-9c70-781eac88f5aa))
-  (gr_arc (start 185.7375 68.2625) (mid 185.272532 69.385032) (end 184.15 69.85) (layer "Edge.Cuts") (width 0.1) (tstamp c2195b30-1a13-4c66-a1e2-1652363f5d9a))
-  (gr_line (start 38.89375 72.23125) (end 38.89375 162.71875) (layer "Edge.Cuts") (width 0.1) (tstamp c9c69495-f020-4915-a3d8-8c7e348d8b33))
+  (gr_arc (start 328.6125 126.20625) (mid 327.915048 127.890048) (end 326.23125 128.5875) (layer "Edge.Cuts") (width 0.1) (tstamp 1782dd26-cbc4-42e5-9399-d1818a705c8f))
+  (gr_line (start 170.65625 29.36875) (end 181.76875 29.36875) (layer "Edge.Cuts") (width 0.1) (tstamp 1b4c8751-446f-48f7-944c-f779754994df))
+  (gr_line (start 26.19375 128.5875) (end 326.23125 128.5875) (layer "Edge.Cuts") (width 0.1) (tstamp 4189c9b3-7c59-4f81-a6f7-b3502b39e3f1))
+  (gr_line (start 170.65625 31.75) (end 170.65625 29.36875) (layer "Edge.Cuts") (width 0.1) (tstamp 6a84c100-fec6-4580-8bfa-9d9f189388fb))
+  (gr_line (start 181.76875 29.36875) (end 181.76875 31.75) (layer "Edge.Cuts") (width 0.1) (tstamp 6f6956f3-601a-44c7-aa5f-109ad40a3c56))
+  (gr_line (start 183.35625 33.3375) (end 326.23125 33.3375) (layer "Edge.Cuts") (width 0.1) (tstamp 7104d884-7210-4493-88ab-2ff08f1c57e3))
+  (gr_arc (start 23.8125 35.71875) (mid 24.509952 34.034952) (end 26.19375 33.3375) (layer "Edge.Cuts") (width 0.1) (tstamp 7b50e08b-a1e4-439a-ba76-a590d7e9ef8e))
+  (gr_arc (start 326.23125 33.3375) (mid 327.915048 34.034952) (end 328.6125 35.71875) (layer "Edge.Cuts") (width 0.1) (tstamp 9835b4c3-6a95-4b71-abdb-ac42a86c77ae))
+  (gr_line (start 169.06875 33.3375) (end 26.19375 33.3375) (layer "Edge.Cuts") (width 0.1) (tstamp a2528ea2-70aa-46dd-9f15-3b182dac76ef))
+  (gr_line (start 328.6125 35.71875) (end 328.6125 126.20625) (layer "Edge.Cuts") (width 0.1) (tstamp a70bf248-6e8c-4724-a669-3f356c25d0e6))
+  (gr_arc (start 183.35625 33.3375) (mid 182.233718 32.872532) (end 181.76875 31.75) (layer "Edge.Cuts") (width 0.1) (tstamp bdce53eb-9c28-411a-9283-b7a10a0638e7))
+  (gr_arc (start 26.19375 128.5875) (mid 24.509952 127.890048) (end 23.8125 126.20625) (layer "Edge.Cuts") (width 0.1) (tstamp be897406-ef26-4c5f-9c70-781eac88f5aa))
+  (gr_arc (start 170.65625 31.75) (mid 170.191282 32.872532) (end 169.06875 33.3375) (layer "Edge.Cuts") (width 0.1) (tstamp c2195b30-1a13-4c66-a1e2-1652363f5d9a))
+  (gr_line (start 23.8125 35.71875) (end 23.8125 126.20625) (layer "Edge.Cuts") (width 0.1) (tstamp c9c69495-f020-4915-a3d8-8c7e348d8b33))
 
 )
